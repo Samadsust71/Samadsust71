@@ -36,9 +36,11 @@
 <h2 align="center">🚀 Tech Stack</h2>
 
 ###
+
 <p align="center">🖥️ Frontend:</p>
 
 ###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
   <img width="12" />
@@ -46,8 +48,11 @@
 </div>
 
 ###
+
 <p align="center">🛠️ Backend :</p>
+
 ###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="nodejs logo"  />
   <img width="12" />
@@ -55,17 +60,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" alt="mongodb logo"  />
 </div>
+
 ###
+
 <p align="center">🛠️ Backend (Exploring 🚀):</p>
+
 ###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" alt="mysql logo"  />
 </div>
+
 ###
+
 <p align="center">🎨 Styling, Animations & 3D:</p>
+
 ###
+
 <div align="center">
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="20" alt="tailwindcss logo"  />
   <img width="12" />
@@ -75,9 +88,11 @@
 </div>
 
 ###
+
 <p align="center">🧰 Tools:</p>
 
 ###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
   <img width="12" />
@@ -91,8 +106,6 @@
 ###
 
 <h3 align="center">🔥   My Stats :</h3>
-
-###
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samadsust71" alt="samadsust71" /></a></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samadsust71&show_icons=true&locale=en" alt="samadsust71" /></p>
 
