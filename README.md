@@ -1,12 +1,12 @@
 
-<div align="center">
+<div align="left">
   <img height="200" width="full" src="https://i.ibb.co.com/XfH1Q63/Abdus-Samad-1.png"  />
 </div>
 
 ###
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=samadsust71&label=Profile%20views&color=0e75b6&style=flat" alt="samadsust71" /> </p>
-<div align="center">
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=samadsust71&label=Profile%20views&color=0e75b6&style=flat" alt="samadsust71" /> </p>
+<div align="left">
  
   <a href="https://www.linkedin.com/in/abdus-samad-3989b5317" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
