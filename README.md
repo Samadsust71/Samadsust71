@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
   <img height="150" src="https://i.ibb.co.com/XfH1Q63/Abdus-Samad-1.png"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/abdus-samad-3989b5317" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -18,11 +18,11 @@
 
 ###
 
-<h2 align="center">😊 About Me</h2>
+<h2 align="left">😊 About Me</h2>
 
 ###
 
-<p align="center">🚀 Frontend Developer | React Enthusiast<br><br>I’m a passionate frontend developer specializing in **React, Express, MongoDB, Tailwind CSS, and Firebase**. Currently, I'm expanding my skills by exploring **Python, SQL, ,Next.js and React Three Fiber** to dive deeper into full-stack and 3D web development.</p>
+<p align="left">🚀 Frontend Developer | React Enthusiast<br><br>I’m a passionate frontend developer specializing in **React, Express, MongoDB, Tailwind CSS, and Firebase**. Currently, I'm expanding my skills by exploring **Python, SQL, ,Next.js and React Three Fiber** to dive deeper into full-stack and 3D web development.</p>
 
 ###
 
@@ -30,11 +30,11 @@
 
 ###
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="left">🚀 Tech Stack</h2>
 
 ###
 
-<p align="center">🖥️ Frontend:</p>
+<p align="left">🖥️ Frontend:</p>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<p align="center">🛠️ Backend :</p>
+<p align="left">🛠️ Backend :</p>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<p align="center">🛠️ Backend (Exploring 🚀):</p>
+<p align="left">🛠️ Backend (Exploring 🚀):</p>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<p align="center">🎨 Styling, Animations & 3D:</p>
+<p align="left">🎨 Styling, Animations & 3D:</p>
 
 ###
 
@@ -86,7 +86,7 @@
 
 ###
 
-<p align="center">🧰 Tools:</p>
+<p align="left">🧰 Tools:</p>
 
 ###
 
@@ -102,6 +102,6 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
