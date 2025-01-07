@@ -1,5 +1,5 @@
-<div align="left">
-  <img height="150" src="https://i.ibb.co.com/XfH1Q63/Abdus-Samad-1.png"  />
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/XfH1Q63/Abdus-Samad-1.png"  />
 </div>
 
 ###
