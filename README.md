@@ -1,6 +1,6 @@
 
 <div align="left">
-  <img height="200" width="full" src="https://i.ibb.co.com/XfH1Q63/Abdus-Samad-1.png"  />
+  <img height="200" width="full" src="https://i.ibb.co.com/BrwpQtR/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png"  />
 </div>
 
 ###
