@@ -6,8 +6,14 @@
 ###
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=samadsust71&label=Profile%20views&color=0e75b6&style=flat" alt="samadsust71" /> </p>
+
+ ###
+
+<h2 align="left">😊 Where to find me</h2>
+
+###
 <div align="left">
- 
+ <a href="https://github.com/Samadsust71" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abdus-samad-3989b5317" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
