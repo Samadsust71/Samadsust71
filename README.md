@@ -117,8 +117,8 @@
 
 <h2 align="left">🔥   My Stats :</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samadsust71" alt="samadsust71" /></a></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=samadsust71&show_icons=true&locale=en" alt="samadsust71" /></p>
-<p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Samadsust71" alt="GitHub Streak" /></a></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=samadsust71&show_icons=true&locale=en" alt="samadsust71" /><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Samadsust71" alt="GitHub Streak" /></a></p>
+<p>&nbsp;</p>
 
 
 ###
