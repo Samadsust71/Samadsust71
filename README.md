@@ -31,13 +31,15 @@
 
 ###
 
-<p align="left">🚀 Frontend Developer | React Enthusiast<br><br>I’m a passionate frontend developer specializing in **React, Express, MongoDB, Tailwind CSS, and Firebase**. Currently, I'm expanding my skills by exploring **Python, SQL, ,Next.js and React Three Fiber** to dive deeper into full-stack and 3D web development.</p>
+<p align="left">🚀 Frontend Developer | React Enthusiast<br><br>I’m a passionate frontend developer specializing in React, Express, MongoDB, Tailwind CSS, and Next.js.</p>
 
 ###
 
-<h1 align="left">📌 Current Activities</h1>
+<h2 align="left">📌 Current Activities</h1>
 
 ###
+<p align="left"> Currently, I'm expanding my skills by exploring Python, SQL, and React Three Fiber** to dive deeper into full-stack and 3D web development.</p>
+
 
 <h2 align="left">🚀 Tech Stack</h2>
 
