@@ -9,7 +9,7 @@
 
  ###
 
-<h2 align="left">😊 Where to find me</h2>
+<h2 align="left">📲 Where to Find Me</h2>
 
 ###
 <div align="left">
