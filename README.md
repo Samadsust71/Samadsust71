@@ -31,14 +31,14 @@
 
 ###
 
-<p align="left">🚀 Frontend Developer | React Enthusiast<br><br>I’m a passionate frontend developer specializing in React, Express, MongoDB, Tailwind CSS, and Next.js.</p>
+<p align="left">🚀 Frontend Developer | React Enthusiast<br><br>I’m a passionate frontend developer specializing in React, Express, MongoDB, Tailwind CSS, and Next.js. I love building intuitive and dynamic web applications with modern technologies. With a strong focus on performance and user experience, I craft responsive, scalable, and engaging interfaces. Constantly learning and exploring new tools, I strive to create seamless digital experiences.</p>
 
 ###
 
 <h2 align="left">📌 Current Activities</h1>
 
 ###
-<p align="left"> Currently, I'm expanding my skills by exploring Python, SQL, and React Three Fiber** to dive deeper into full-stack and 3D web development.</p>
+<p align="left"> Currently, I'm expanding my skills by exploring Python, SQL, and React Three Fiber to dive deeper into full-stack and 3D web development.</p>
 
 
 <h2 align="left">🚀 Tech Stack</h2>
@@ -50,9 +50,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="20" alt="javascript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="20" alt="react logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="nextjs logo"  />
 </div>
 
 ###
@@ -62,11 +64,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="24" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" alt="mongodb logo"  />
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="24" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=express" height="24" alt="express logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="24" alt="mongodb logo"  />
 </div>
 
 ###
@@ -76,9 +78,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" alt="mysql logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=mysql" height="24" alt="mysql logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=django" height="24" alt="django logo"  />
 </div>
 
 ###
@@ -88,11 +92,11 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="20" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="20" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="20" alt="threejs logo"  />
+<img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=css" height="20" alt="css3 logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=html" height="20" alt="html5 logo"  />
 </div>
 
 ###
@@ -102,13 +106,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="20" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="20" alt="canva logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="20" alt="github logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="20" alt="canva logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20" alt="firebase logo"  />
 </div>
 
 ###
@@ -124,6 +130,6 @@
 </div>
 
 
-
+<img src="https://raw.githubusercontent.com/Samadsust71/Samadsust71/output/snake.svg" alt="Snake animation" />
 
 ###
