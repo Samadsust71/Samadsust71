@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="200" width="full" src="https://i.ibb.co.com/BrwpQtR/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png"  />
+  <img  src="https://i.ibb.co.com/BrwpQtR/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png"  />
 </div>
 
 ###
