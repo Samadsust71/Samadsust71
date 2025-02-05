@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img  src="https://i.ibb.co.com/BrwpQtR/Neutral-Creative-Professional-Linked-In-Article-Cover-Image.png"  />
+  <img  src="https://i.ibb.co.com/nMPz4Nqh/Abdus-samad-2.png"  />
 </div>
 
 ###
