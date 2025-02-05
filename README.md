@@ -51,7 +51,7 @@
 
 <div align="left">
   <span>🖥️ Frontend:</span>
-  <span></span>
+  <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="20" alt="javascript logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="20" alt="react logo"  />
