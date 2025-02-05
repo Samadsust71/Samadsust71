@@ -45,7 +45,6 @@
 
 ###
 
-<p align="left">🖥️ Frontend:</p>
 
 ###
 
@@ -61,11 +60,12 @@
 
 ###
 
-<p align="left">🛠️ Backend :</p>
 
 ###
 
 <div align="left">
+  <span>🛠️ Backend :</span>
+  <img width="12" />
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="24" alt="nodejs logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=express" height="24" alt="express logo"  />
@@ -75,11 +75,12 @@
 
 ###
 
-<p align="left">🛠️ Backend (Exploring 🚀):</p>
 
 ###
 
 <div align="left">
+   <span>🛠️ Backend (Exploring 🚀):</span>
+  <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=mysql" height="24" alt="mysql logo"  />
@@ -89,11 +90,12 @@
 
 ###
 
-<p align="left">🎨 Styling, Animations & 3D:</p>
 
 ###
 
 <div align="left">
+   <span>🎨 Styling, Animations & 3D:</span>
+  <img width="12" />
 <img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=css" height="20" alt="css3 logo"  />
@@ -103,11 +105,12 @@
 
 ###
 
-<p align="left">🧰 Tools:</p>
 
 ###
 
 <div align="left">
+   <span>🧰 Tools:</span>
+  <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="20" alt="github logo"  />
