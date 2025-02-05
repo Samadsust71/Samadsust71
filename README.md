@@ -129,7 +129,4 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Samadsust71&theme=dark&card_height=150" alt="GitHub Streak" /></a>
 </div>
 
-
-<img src="https://raw.githubusercontent.com/Samadsust71/Samadsust71/output/snake.svg" alt="Snake animation" />
-
 ###
