@@ -119,8 +119,6 @@
 
 ###
 
-<h1 align="left"></h1>
-
 ###
 
 <h2 align="left">🔥   My Stats :</h3>
