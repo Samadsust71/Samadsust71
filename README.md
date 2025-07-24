@@ -29,7 +29,7 @@ I’m constantly learning and improving — always looking for exciting challeng
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 
 ### 🛠️ Backend
-![Node.js](https://cdn.simpleicons.org/nodedotjs/339933)
+![Node.js](https://cdn.simpleicons.org/nodedotjs/339933=24x24)
 ![Express.js](https://skillicons.dev/icons?i=express)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
