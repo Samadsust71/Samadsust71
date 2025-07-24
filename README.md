@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/nMPz4Nqh/Abdus-samad-2.png" alt="banner" />
+  <img src="https://i.ibb.co.com/nMPz4Nqh/Abdus-samad-2.png" alt="Abdus Samad Banner" />
 </div>
 
 <p align="center">
@@ -21,34 +21,57 @@ I’m constantly learning and improving — always looking for exciting challeng
 
 ---
 
+## 📚 Current Focus
+
+- 🌐 Exploring advanced **React** patterns and **Next.js 14+**
+- 🐍 Diving into **Python** and **Django**
+- 🌌 Experimenting with **React Three Fiber** for 3D UIs
+
+---
+
 ## 🚀 Tech Stack
 
 ### 🖥️ Frontend
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg =24x24)  
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg =24x24)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
+
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="20" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="Next.js" />
+</span>
 
 ### 🛠️ Backend
-![Node.js](https://cdn.simpleicons.org/nodedotjs/339933=24x24)
-![Express.js](https://skillicons.dev/icons?i=express)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+<span>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="20" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="20" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="20" alt="MongoDB" />
+</span>
 
 ### 🧪 Backend (Exploring)
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Django](https://skillicons.dev/icons?i=django)
+
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=django" height="20" alt="Django" />
+</span>
 
 ### 🎨 Styling & 3D
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![CSS3](https://skillicons.dev/icons?i=css)
-![HTML5](https://skillicons.dev/icons?i=html)
+
+<span>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=css" height="20" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=html" height="20" alt="HTML5" />
+</span>
 
 ### 🧰 Tools
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)
-![Canva](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg)
-![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)
+
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="20" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="20" alt="Canva" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20" alt="Firebase" />
+</span>
 
 ---
 
@@ -69,14 +92,6 @@ I’m constantly learning and improving — always looking for exciting challeng
 </a>
 
 </div>
-
----
-
-## 📚 Current Focus
-
-- 🌐 Exploring advanced **React** patterns and **Next.js 14+**
-- 🐍 Diving into **Python** and **Django**
-- 🌌 Experimenting with **React Three Fiber** for 3D UIs
 
 ---
 
@@ -101,4 +116,3 @@ I’m constantly learning and improving — always looking for exciting challeng
 
 > 💡 *"Code is like humor. When you have to explain it, it’s bad."*  
 > — Cory House
-
